@@ -8,7 +8,7 @@ You will need to construct a sprite sheet for your animation. You can draw your 
 
 I made an alien invader with 2 frames of animation with each frame being 32x32 pixels. So my resulting image export was 64x32 pixels. I have saved this into my project folder and named it: `invader.png`.
 
-![](https://raw.githubusercontent.com/FutureTechCity/Animation/master/invader.png)
+![](invader.png)
 
 ## Creating an atlas
 
